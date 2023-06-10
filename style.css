@@ -12,6 +12,7 @@ img {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    width: 1100px;
 }
 article {
     position: relative;
@@ -36,7 +37,6 @@ article {
 header {
     background-image: linear-gradient(navy,white);
     padding: 20px;
-    width: 1100px;
     position: relative;
 }
 header img {
